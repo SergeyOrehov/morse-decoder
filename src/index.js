@@ -64,7 +64,7 @@ function decode(expr) {
     }
   }
 
-  return arr;
+  return wordDecoder;
 }
 
 const fun = (str) => {
